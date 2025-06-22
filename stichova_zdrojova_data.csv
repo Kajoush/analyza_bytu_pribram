@@ -1,0 +1,59 @@
+dispozice,adresa,cena,metraz,jednotka,ulice,mesto,metraz_m2
+1+kk,Dobříš,12900,30,m²,,Dobříš,30
+1+kk,Dobříš,13000,30,m²,,Dobříš,30
+1+1,"Nádražní, Příbram - Příbram IV",9999,36,m²,Nádražní,Příbram,36
+2+1,"Petra Bezruče, Příbram - Příbram IV",13000,51,m²,Petra Bezruče,Příbram,51
+1+1,"Legionářů, Příbram - Příbram VII",10000,32,m²,Legionářů,Příbram,32
+1+1,"Legionářů, Příbram - Příbram VII",8500,40,m²,Legionářů,Příbram,40
+1+kk,"U Pivovaru, Dobříš",14900,49,m²,U Pivovaru,Dobříš,49
+1+kk,"U Pivovaru, Dobříš",14400,30,m²,U Pivovaru,Dobříš,30
+1+1,"Okružní, Příbram - Příbram VII",10500,38,m²,Okružní,Příbram,38
+3+1,Lhota u Příbramě,15000,76,m²,,Příbram,76
+1+kk,"U Pivovaru, Dobříš",12900,33,m²,U Pivovaru,Dobříš,33
+2+kk,"Gen. R. Tesaříka, Příbram - Příbram I",11000,44,m²,Gen. R. Tesaříka,Příbram,44
+3+kk,"Borská, Březnice",12000,59,m²,Borská,Březnice,59
+2+1,"Ryneček, Příbram - Příbram III",16000,61,m²,Ryneček,Příbram,61
+2+1,"náměstí 17. listopadu, Příbram - Příbram VII",16500,60,m²,náměstí 17. listopadu,Příbram,60
+2+1,"Bratří Čapků, Příbram - Příbram VII",13000,47,m²,Bratří Čapků,Příbram,47
+2+1,"K Drkolnovu, Příbram - Příbram VI-Březové Hory",14950,58,m²,K Drkolnovu,Příbram,58
+2+kk,"Hradební, Příbram - Příbram I",14500,55,m²,Hradební,Příbram,55
+2+kk,"Obránců míru, Příbram - Příbram VII",13000,59,m²,Obránců míru,Příbram,59
+2+1,"Čs. armády, Dobříš",13000,56,m²,Čs. armády,Dobříš,56
+1+1,"Edvarda Beneše, Příbram - Příbram VII",9900,35,m²,Edvarda Beneše,Příbram,35
+2+1,Petrovice,12000,58,m²,,Petrovice,58
+2+kk,"Slunná, Příbram - Příbram V-Zdaboř",10000,46,m²,Slunná,Příbram,46
+1+kk,Nečín,11500,44,m²,,Nečín,44
+3+kk,"Obránců míru, Březnice",11000,58,m²,Obránců míru,Březnice,58
+2+1,"Jana Drdy, Příbram - Příbram VII",12500,52,m²,Jana Drdy,Příbram,52
+1+kk,"Zborovská, Jince",12000,33,m²,Zborovská,Jince,33
+2+1,"náměstí J. A. Alise, Příbram - Příbram VI-Březové Hory",13300,54,m²,náměstí J. A. Alise,Příbram,54
+1+kk,"Školní, Příbram - Příbram VIII",11000,29,m²,Školní,Příbram,29
+3+1,"Na Čihadlech, Dobříš",18000,71,m²,Na Čihadlech,Dobříš,71
+3+1,"Čechovská, Příbram - Příbram VIII",19000,90,m²,Čechovská,Příbram,90
+1+kk,"Školní, Příbram - Příbram VIII",11000,29,m²,Školní,Příbram,29
+2+1,"třída Osvobození, Příbram - Příbram VII",11490,49,m²,třída Osvobození,Příbram,49
+3+kk,Čím,10500,54,m²,,Čím,54
+3+kk,"Zborovská, Jince",23500,99,m²,Zborovská,Jince,99
+1+1,Krásná Hora nad Vltavou,8000,70,m²,,Krásná Hora nad Vltavou,70
+1+kk,Krásná Hora nad Vltavou,5700,24,m²,,Krásná Hora nad Vltavou,24
+2+1,"Bratří Čapků, Příbram - Příbram VII",14000,56,m²,Bratří Čapků,Příbram,56
+2+1,"Ryneček, Příbram - Příbram III",16000,73,m²,Ryneček,Příbram,73
+1+kk,"Slavíkova, Jince",18500,46,m²,Slavíkova,Jince,46
+1+kk,"Gen. R. Tesaříka, Příbram - Příbram I",9500,43,m²,Gen. R. Tesaříka,Příbram,43
+3+kk,"Milínská, Příbram - Příbram III",14313,62,m²,Milínská,Příbram,62
+1+kk,"Poštovní, Příbram - Příbram V-Zdaboř",6700,18,m²,Poštovní,Příbram,18
+2+1,"Legionářů, Příbram - Příbram VII",12000,50,m²,Legionářů,Příbram,50
+1+kk,"Dolní Valy, Březnice",9500,42,m²,Dolní Valy,Březnice,42
+3+kk,"Jana Drdy, Příbram - Příbram VII",15000,64,m²,Jana Drdy,Příbram,64
+2+1,"Okružní, Příbram - Příbram VII",13500,53,m²,Okružní,Příbram,53
+2+1,"Politických vězňů, Příbram - Příbram VII",11000,57,m²,Politických vězňů,Příbram,57
+2+kk,"Žižkova, Příbram",16500,46,m²,Žižkova,Příbram,46
+3+kk,"Edvarda Beneše, Příbram - Příbram VII",9990,68,m²,Edvarda Beneše,Příbram,68
+3+kk,"Politických vězňů, Příbram - Příbram VII",12500,65,m²,Politických vězňů,Příbram,65
+2+kk,"Pod Čertovým pahorkem, Příbram - Příbram VII",12000,45,m²,Pod Čertovým pahorkem,Příbram,45
+1+kk,"Pod Čertovým pahorkem, Příbram - Příbram VII",10000,25,m²,Pod Čertovým pahorkem,Příbram,25
+1+kk,"U Pivovaru, Dobříš",14400,30,m²,U Pivovaru,Dobříš,30
+1+kk,"U Pivovaru, Dobříš",12900,30,m²,U Pivovaru,Dobříš,30
+2+kk,"Bratří Čapků, Příbram - Příbram VII",12000,50,m²,Bratří Čapků,Příbram,50
+1+kk,"Politických vězňů, Příbram - Příbram VII",10000,25,m²,Politických vězňů,Příbram,25
+1+1,"Jáchymovská, Příbram - Příbram VII",11300,45,m²,Jáchymovská,Příbram,45
